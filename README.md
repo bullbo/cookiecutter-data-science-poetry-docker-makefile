@@ -1,12 +1,5 @@
 # Cookiecutter Data Science
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
-
-
-#### [Project homepage](https://github.com/IngerMathilde/cookiecutter-data-science-dev)
-
-#### [Source homepage](http://drivendata.github.io/cookiecutter-data-science/)
-
 
 ### Requirements to use the cookiecutter template:
 -----------
@@ -28,7 +21,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/IngerMathilde/cookiecutter-data-science-poetry-makefile
+    cookiecutter https://github.com/bullbo/cookiecutter-data-science-poetry-makefile
 
 
 
